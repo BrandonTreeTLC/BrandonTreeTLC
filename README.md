@@ -18,7 +18,7 @@ Expect odd creativities, interesting posts, and plenty of fun! Computers used to
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandontreetlc&show_icons=true&locale=en" alt="brandontreetlc" /></p>
 
-- 🔭 I’m currently working on ... SleepyBrowser
+- 🔭 I’m currently working on ... Orbit Starlop
 - 🌱 I’m currently learning ... Visual Basic 2019
-- 💬 Ask me about ... Really Anything
+- 💬 Ask me about ... Why it is raining so awesomely outside :)
 - 📫 How to reach me: ...Direct Message, or email BrandonTreeTLC@outlook.com
