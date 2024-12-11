@@ -1,12 +1,10 @@
 ## Hi there 👋
 
+My name is Brandon, A programmer, Computer Engineer, And script kiddie.
 
-Hey everyone! My name is Brandon. I am just another programmer just having fun on the net! Don't mind me!
+Don't mind my corner of nick nack programs im posting, you never know what you might find! Im  just having fun on the internet
 
-here you will find plenty of things like Dance packs, odd programs, and overall just some nick nacks mix-and-match programs. Never know what you would find!
-
-I am a script kiddie just having a good time and learning about computer programming! I first got interested in computers back at my old elementry school, and as the years went on, I later on had a major surge of interest in middle school where I was enjoying the fun world of technology through a "Digimon" Phase. It became eventually where I took a class for computers, and was introduced to Mavis Beacon Teaches Typing! From there I started repairing computers, and eventually learning Linux with a neighbor! 
-
+Expect odd creativities, interesting posts, and plenty of fun! Computers used to be fun and exciting, and I intend to keep it that way! Please PLEASE do not be afraid to post some comments, and let me know what you think about my work, I want to improve, and I would LOVE to here from any fans of my work if it has helped you! It is because of you guys that I enjoy this!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandontreetlc&label=Profile%20views&color=0e75b6&style=flat" alt="brandontreetlc" /> </p>
 
