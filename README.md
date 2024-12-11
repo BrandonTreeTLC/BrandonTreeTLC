@@ -4,7 +4,7 @@ My name is Brandon, A programmer, Computer Engineer, And script kiddie.
 
 Don't mind my corner of nick nack programs im posting, you never know what you might find! Im  just having fun on the internet
 
-Expect odd creativities, interesting posts, and plenty of fun! Computers used to be fun and exciting, and I intend to keep it that way! Please PLEASE do not be afraid to post some comments, and let me know what you think about my work, I want to improve, and I would LOVE to here from any fans of my work if it has helped you! It is because of you guys that I enjoy this!
+Expect odd creativities, interesting posts, and plenty of fun! Computers used to be fun and exciting, and I intend to keep it that way! Please PLEASE do not be afraid to post some comments, and let me know what you think about my work, I want to improve, and I would LOVE to hear from any fans of my work if it has helped you! It is because of you guys that I enjoy this!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandontreetlc&label=Profile%20views&color=0e75b6&style=flat" alt="brandontreetlc" /> </p>
 
